@@ -54,7 +54,7 @@ section {
 
 .wtag {
   position: absolute;
-  top: -12px;
+  top: -2px;
   left: 16px;
   background: var(--surface);
   padding: 0 8px;
