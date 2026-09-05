@@ -10,7 +10,7 @@ export default function Skills() {
         <span className="cur">Wrap</span>
       </div>
       <h2 className="stitle">Skills &amp; tools</h2>
-      <div className="wbox" style={{ padding: '30px 28px' }}>
+      <div className="wbox skills-box">
         <span className="wtag">Wrap(spacing: 10)</span>
         <span className="wdim">children: {totalSkills}</span>
         <div className="wrap-groups">
